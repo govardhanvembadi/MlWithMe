@@ -30,6 +30,7 @@ To start learning math for ML, begin with linear algebra. It's the fundamental m
 
 ### 2. Probability
 Probability explores uncertainty, a key aspect in ML. Understanding probabilities aids in making informed decisions, crucial for various ML tasks.
+- [Probability](Probability.ipynb) : Probability
 
 ### 3. Statistics
 Statistics involves analyzing and interpreting data. In ML, statistical methods are employed to draw meaningful insights and conclusions from datasets.
