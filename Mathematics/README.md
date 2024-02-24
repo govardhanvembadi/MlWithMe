@@ -34,6 +34,8 @@ Probability explores uncertainty, a key aspect in ML. Understanding probabilitie
 
 ### 3. Statistics
 Statistics involves analyzing and interpreting data. In ML, statistical methods are employed to draw meaningful insights and conclusions from datasets.
+- [Statistics for ML- Part 1](StatisticsForML1.ipynb)
+- [Statistics for ML- Part 2](StatisticsForML2.ipynb)
 
 ### 4. Calculus
 Calculus is the mathematics of change and motion. In ML, it plays a vital role in optimization algorithms, enabling models to learn and improve over time.
